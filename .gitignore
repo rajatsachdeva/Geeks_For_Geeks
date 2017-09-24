@@ -1,0 +1,5 @@
+
+*.out
+cisco_questions/q1/junk/temp.c
+cisco_questions/q1/junk/q1_second_approach.c
+.DS_Store
