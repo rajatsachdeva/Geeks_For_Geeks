@@ -25,4 +25,4 @@ Output:<br />
 much.very.program.this.like.i<br />
 mno.pqr<br />
 
-Reference: http://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string
+Reference: http://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string/0

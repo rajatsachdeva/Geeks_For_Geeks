@@ -29,4 +29,4 @@ ABC ACB BAC BCA CAB CBA <br />
 
 ABGS ABSG AGBS AGSB ASBG ASGB BAGS BASG BGAS BGSA BSAG BSGA GABS GASB GBAS GBSA GSAB GSBA SABG SAGB SBAG SBGA SGAB SGBA <br />
 
-Reference: http://practice.geeksforgeeks.org/problems/missing-number-in-array
+Reference: http://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0

@@ -33,4 +33,4 @@ Output
 4 <br />
 9 <br />
 
-Reference: http://practice.geeksforgeeks.org/problems/missing-number-in-array
+Reference: http://practice.geeksforgeeks.org/problems/missing-number-in-array/0
