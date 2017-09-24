@@ -32,3 +32,12 @@ ABGS ABSG AGBS AGSB ASBG ASGB BAGS BASG BGAS BGSA BSAG BSGA GABS GASB GBAS GBSA 
 '''
 
 #Code
+from itertools import permutations
+
+for _ in range(int(input())):
+	input_str = input()
+	perms = [''.join(p) for p in permutations(input_str)]
+
+	for p in sorted(perms):
+		print (p,end =" ")
+	print("")
